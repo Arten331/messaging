@@ -1,4 +1,4 @@
-module messaging
+module github.com/Arten331/messaging
 
 go 1.20
 
